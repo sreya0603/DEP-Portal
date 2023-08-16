@@ -1,6 +1,6 @@
 # Grants-Management-Portal
 
-• This application is made for the internal use of the rnd grants section in the IIT Ropar, so the code is confidential but the structure and features of the application are shown in the report.
+• This application is made for the internal use of the rnd grants section in the IIT Ropar, the structure and features of the application are shown in the report.
 
 # Project Topic: RnDGrants Management Portal
 • The project aims to develop a web-based platform for managing and tracking research and development grants.
