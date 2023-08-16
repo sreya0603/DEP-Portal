@@ -1,4 +1,4 @@
-# DEP-Portal
+# Grants-Management-Portal
 
 • This application is made for the internal use of the rnd grants section in the IIT Ropar, so the code is confidential but the structure and features of the application are shown in the report.
 
